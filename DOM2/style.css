@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    background-color: chartreuse;
+    height: 200px;
+    width: 125px;
+}
+p {
+    color: darkred;
+    background-color: darkgreen;
+
+}
+.one {
+    color:blue;
+    background-color:yellow;
+}
+
+.two {
+    color: brown;
+    background-color:green;
+}
